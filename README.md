@@ -16,3 +16,9 @@ change log for mutorage
 
 ## clog 2021.02.04
   * [Desktop-Web] 클로즈 베타 서비스 시작
+
+## clog 2021.02.14
+  * [Desktop-Web] 코드 리펙토링
+
+## clog 2021.02.27
+  * [Backend_API] API를 요청할때마다 clickTracking정보를 전송하는 기능을 삭제함.(YTM-CTP가 하는 일을 명확히 알게됨.)
