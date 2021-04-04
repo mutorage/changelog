@@ -3,7 +3,7 @@ change log for mutorage
 
 ## clog 2020.12.29
   * [Backend_API] YTM - Backend간 통신 프로토콜을 HTTPS에서 HTTP/2 over TLS로 변경
-  * [Backend_API] YTM - Backend간 통신데이터 압출 적용 (gzip, br, deflate)
+  * [Backend_API] YTM - Backend간 통신데이터 압축 적용 (gzip, br, deflate)
   * [Backend_API] YTM - Backend간 preconnect적용
 
 ## clog 2021.01.04
